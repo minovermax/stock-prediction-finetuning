@@ -1,4 +1,4 @@
-# StockNet (2018) vs. Llama 2 Stock Prediction w/ Fine Tuning
+# StockNet vs. Llama 2 Stock Prediction w/ Fine Tuning
 
 ## How to Run
 Best practice is to work with Google Colab.
